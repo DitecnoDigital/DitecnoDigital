@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -26,8 +26,9 @@ Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Skillset 🙏, los amigos me dicen Juanjo 
+## 😄 los amigos me dicen Juanjo 
 ## Ditecno Digital Developer 👨‍💻
+## Skillset
 
 [![](https://img.shields.io/badge/LinkedIn-DitecnoDigital-blue)](https://www.linkedin.com/in/ditecno-digital-aa407a165/)
 [![](https://img.shields.io/badge/Gmail-juanjoseladerach@gmail.com-red)](mailto:juanjoseladerach@gmail.com)
@@ -209,4 +210,5 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 [2022-presente].
 
 ---
+### 😄 Pd: Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
