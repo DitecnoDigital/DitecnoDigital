@@ -79,7 +79,7 @@ const ditecnoDigital = {
 
         Manejo de diferentes microcontroladores como Arduino,Esp32,..., además conocimiento en sensores y actuadores.
         
-        Configuración y Manejo de S.o. Rasbian del microordenador Raspberry.
+        Configuración y Manejo de S.o. Rasbian del micro-ordenador Raspberry.
         
         Manejo básico de conceptos y elementos pasivos y activos de la Electronica.
         
@@ -165,7 +165,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 ### ⭐️Ditecnomakers:
 
-#### Electronica, Impresion 3D, Programación : 
+#### Electronica, Impresin 3D, Programación : 
 
 Link: https://ditecnomakers.com/author/DitecnoDigital/
 
