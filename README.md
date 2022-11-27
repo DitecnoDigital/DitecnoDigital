@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## Biografia
+## ⚡Biografia
 
 Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología en cuanto a Electronica,Modelado en 3D para imprimir y Programación en diferentes Lenguajes,aunque lo que más me gusta es la Programación. Dentro de las diferentes areas de conocimientos que abarca la Tecnologia,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
 
@@ -57,14 +57,16 @@ const ditecnoDigital = {
 
 ### Linux:
        Experiencia de uso personal con distribuciones tales como Debian (incluyendo algunas de sus variantes, como Ubuntu). Manejo de paquetes y mantenimiento de sistemas.
-## VirtualBox: 
+### VirtualBox: 
        Administración y configuración de máquinas virtuales y contenedores.
+
 
 ## ⚡Modelado 3D e Impresión 3D
 
 ### Blender: 
         Experiencia de modelado de objetos 3D.
        
+
 ## ⚡Edición de imágenes y video
 
 ### Camtasia + KDenLive : 
@@ -73,8 +75,10 @@ const ditecnoDigital = {
 ### Photoshop / GIMP: 
         Edición y manejo de herramientas de recorte y retoque.
         
- ## ⚡Electronica Básica
+
+## ⚡Electronica Básica
         Manejo de diferentes microcontroladores como Arduino,Esp32,...Raspberry, además conocimiento en sensores y actuadores.
+
 
 ## ⚡ Proyectos
 
@@ -112,6 +116,7 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 #### Publicada en la Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_juanj
 
+
  ## ✅ Reconocimientos
 
 ### 🥈 Competencia Juridiccional de Informática y Computación (OIA).
@@ -136,6 +141,7 @@ Año 2022. 1er Puesto Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022
 Medalla de Oro
 
 [Nivel 1]. Año 2022.
+
 
 ## ➡ Antecedentes:
 
@@ -164,16 +170,17 @@ Realizacion de diferentes tutoriales en la plataforma Youtube explicando paso a 
  #### 🕹 Arkanoid
  Link: https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s
 
+
 ## 📖 Educación
 
 ### ⭐ Nivel Avanzado:
                      "Latin"
 ### ⭐ Nivel Intermedio:
-                     "Frances"
-### ⭐ Nivel Intermedio:
-                     "Ingles"
+                     "Frances","Ingles"
+                    
 
 ### Educación Secundaria - Colegio Nacional Monserrat
+
 [Cursando] 4to Año.
 [2022-presente].
 
