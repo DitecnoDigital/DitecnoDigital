@@ -24,7 +24,7 @@ Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Buenas 🙏, Yo soy Juanjo 
+## Skillset 🙏, Yo soy Juanjo 
 ## Ditecno Digital Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-DitecnoDigital-blue)](https://www.linkedin.com/in/ditecno-digital-aa407a165/)
@@ -48,6 +48,12 @@ const ashraf = {
     architecture: ["Server Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
+
+Administración de sistemas
+
+Linux: Experiencia de uso personal con distribuciones tales como Debian (incluyendo algunas de sus variantes, como Ubuntu). Manejo de paquetes y mantenimiento de sistemas.
+VirtualBox: Administración y configuración de máquinas virtuales y contenedores.
+
 
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
