@@ -66,6 +66,11 @@ const ditecnoDigital = {
 ### Blender: 
         Experiencia de modelado de objetos 3D.
        
+### Cura y Repetier:
+        Experiencia en el Laminado de objetos 3D.
+        
+### Reparación de Impresoras FDM 3D:
+        Experiencia en la reparación y armado de impresoras 3D.
 
 ## ⚡Edición de imágenes y video
 
@@ -77,7 +82,12 @@ const ditecnoDigital = {
         
 
 ## ⚡Electronica Básica
-        Manejo de diferentes microcontroladores como Arduino,Esp32,...Raspberry, además conocimiento en sensores y actuadores.
+
+        Manejo de diferentes microcontroladores como Arduino,Esp32,..., además conocimiento en sensores y actuadores.
+        
+        Configuración y Manejo de S.o. Rasbian del microordenador Raspberry.
+        
+        Manejo de básico de conceptos y elementos pasivos y activos de la Electronica.
 
 
 ## ⚡ Proyectos
@@ -148,7 +158,7 @@ Medalla de Oro
 ## ⚡Tutoriales:
 
 
-Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" y "Youtube" explicandos paso a paso:
+Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" y "Youtube" explicando paso a paso diferentes temas:
 
 ### ⭐️Ditecnomakers:
 
