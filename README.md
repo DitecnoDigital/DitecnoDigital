@@ -118,8 +118,8 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 
 
+ ## ⚡Reconocimientos
 
- ## ✅ Reconocimientos
 
 ### 🥈 Competencia Juridiccional de Informática y Computación (OIA).
 
@@ -145,7 +145,8 @@ Medalla de Oro
 [Nivel 1]. Año 2022.
 
 
-## ➡ Antecedentes:
+## ⚡Tutoriales:
+
 
 Realizacion de diferentes tutoriales en la plataforma Youtube explicando paso a paso la codificación de diversos juegos:
 
@@ -173,15 +174,15 @@ Realizacion de diferentes tutoriales en la plataforma Youtube explicando paso a 
  Link: https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s
 
 
-## 📖 Educación
+## ⚡Educación
 
-### ⭐ Nivel Avanzado:
+### 📖Nivel Avanzado:
                      "Latin"
-### ⭐ Nivel Intermedio:
+### 📖Nivel Intermedio:
                      "Frances","Ingles"
                     
 
-### Educación Secundaria - Colegio Nacional Monserrat
+### 📖Educación Secundaria - Colegio Nacional Monserrat
 
 [Cursando] 4to Año.
 [2022-presente].
