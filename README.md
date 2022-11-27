@@ -69,17 +69,10 @@ const ditecnoDigital = {
 ### Cura y Repetier:
         Experiencia en el Laminado de objetos 3D.
         
-### Reparación de Impresoras FDM 3D:
+### Reparación de Impresoras 3D "Tecnologia FDM" :
         Experiencia en la reparación y armado de impresoras 3D.
 
-## ⚡Edición de imágenes y video
-
-### Camtasia + KDenLive : 
-        Experiencia de edición de videos  para uso escolar y personal. Uso de chroma key, transiciones, animaciones de texto y objetos, estabilización, motion tracking, entre otras.
-        
-### Photoshop / GIMP: 
-        Edición y manejo de herramientas de recorte y retoque.
-        
+      
 
 ## ⚡Electronica Básica
 
@@ -87,7 +80,16 @@ const ditecnoDigital = {
         
         Configuración y Manejo de S.o. Rasbian del microordenador Raspberry.
         
-        Manejo de básico de conceptos y elementos pasivos y activos de la Electronica.
+        Manejo básico de conceptos y elementos pasivos y activos de la Electronica.
+        
+        
+## ⚡Edición de imágenes y video
+
+### Camtasia + KDenLive : 
+        Experiencia de edición de videos  para uso escolar y personal. Uso de chroma key, transiciones, animaciones de texto y objetos, estabilización, motion tracking, entre otras.
+        
+### Photoshop / GIMP: 
+        Edición y manejo de herramientas de recorte y retoque.
 
 
 ## ⚡ Proyectos
