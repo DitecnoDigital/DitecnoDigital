@@ -71,7 +71,36 @@ const ditecnoDigital = {
 # Photoshop / GIMP: 
         Edición y manejo de herramientas de recorte y retoque.
 
+## Proyectos
 
+# Aplicación Makers
+
+Plataforma de Makers sobre electrónica, arduino, impresión 3D, raspberry pi y programación que tiene como fin compartir proyectos y       tutoriales ademas de sus experiencias en la plataforma . Las publicaciones tienen una licencia de autor Creative Commons.
+
+Publicada en la Play Store: https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US
+
+# Return Space: 
+
+Juego de naves que inicia la aventura por el espacio, pues si es así sumérgete en esta misión donde tendrás diferentes obstáculos que deberás destruir para sumar puntaje y así lograr tu mayor record. ¡¡Prepárate para desafiar tus habilidades!!
+
+Publicada en la Play Store: https://play.google.com/store/apps/details?id=com.ditecno.returnspace&hl=es_PE&gl=US
+
+# Dity Mistery:
+
+"Dity" proviene del planeta Rojo explorando el espacio, en esa exploración su nave tiene problemas con el panel de control electrónico y aterriza en el planeta Tierra en busca de componentes electrónicos. Para esta misión, utiliza la ayuda de "Mara", una chica muy inquieta e investigadora que está dispuesta a ayudarlo por una pequeña recompensa (monedas de oro y gemas).
+
+Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.ditecno.ditymistery&hl=es_PE&gl=US
+
+# Zijan: 
+
+Juego casual de lanzamientos de bolas con gravedad o sin gravedad donde obtienes estrellas en cada nivel al recolectar, así como si no te pasas de los lanzamientos y lo haces a tiempo.
+Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.DitecnoDigital.BallGame&hl=es_PE&gl=US
+
+# Comandos de Control Robot:
+
+Mediante esta aplicación podrá manejar a través de controles con flechas mediante bluetooth un auto controlado con una placa Arduino o      vincularlo a un ultrasonido y que funcione a modo esquiva obstáculos. Es verdaderamente útil para aprender a usar la placa Arduino, los modulo ultrasonido y los modulo bluetooth.
+
+Publicada en la Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_juanj
 
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
