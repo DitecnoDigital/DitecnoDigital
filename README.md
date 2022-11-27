@@ -40,7 +40,7 @@ const ditecnoDigital = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev","C","C++","C#","Java","Python"],
     technologies:{
-        backEnd: ["nodejs","python"],
+        backEnd: ["nodejs","Python","Php"],
         fronEnd: ["Html","Css"],
         mobileApp: ["Java"],
         database: ["mongo","mySql","SQL"],
