@@ -38,7 +38,7 @@ const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev","Java", "C", "C++","C#","Python"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
+        backEnd: ["nodejs","python"],
         fronEnd: ["Html","Css"],
         mobileApp: ["Java",],
         database: ["mongo","mySql",""SQL"],
@@ -46,6 +46,7 @@ const ashraf = {
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Server Architecture", "microservices", "event-driven", "Single page applications"],
+    
 }
 ```
 
