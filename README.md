@@ -62,7 +62,7 @@ const ditecnoDigital = {
        Administración y configuración de máquinas virtuales y contenedores.
 
 
-## ⚡Modelado 3D e Impresión 3D
+## ⚡Modelado 3D 
 
 ### Blender: 
         Experiencia de modelado de objetos 3D.
