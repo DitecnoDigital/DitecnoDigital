@@ -94,6 +94,7 @@ Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.dit
 # Zijan: 
 
 Juego casual de lanzamientos de bolas con gravedad o sin gravedad donde obtienes estrellas en cada nivel al recolectar, así como si no te pasas de los lanzamientos y lo haces a tiempo.
+
 Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.DitecnoDigital.BallGame&hl=es_PE&gl=US
 
 # Comandos de Control Robot:
@@ -101,6 +102,29 @@ Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.Dit
 Mediante esta aplicación podrá manejar a través de controles con flechas mediante bluetooth un auto controlado con una placa Arduino o      vincularlo a un ultrasonido y que funcione a modo esquiva obstáculos. Es verdaderamente útil para aprender a usar la placa Arduino, los modulo ultrasonido y los modulo bluetooth.
 
 Publicada en la Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_juanj
+
+ ## Reconocimientos
+
+# Competencia Juridiccional de Informática y Computación (OIA).
+
+Año 2021. 2do Puesto. Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/
+
+# Certamen Nacional de Programación, Olimpíada Informática Argentina.
+
+ Medalla de Oro
+
+[Nivel 1]. Año 2021. Link: https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2021/
+
+
+# Competencia Juridiccional de Informática y Computación (OIA).
+
+Año 2022. 1er Puesto Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/
+
+# Certamen Nacional de Programación, Olimpíada Informática Argentina.
+
+Medalla de Oro
+
+[Nivel 1]. Año 2022.
 
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
