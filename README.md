@@ -1,6 +1,6 @@
 ![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaGitDitecno.png)
 
-### Juan Jose Läderach 👋
+### Juan José Läderach 👋
 
 <!--
 **DitecnoDigital/DitecnoDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
