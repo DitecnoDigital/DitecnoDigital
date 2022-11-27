@@ -117,6 +117,8 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 #### Publicada en la Play Store: https://play.google.com/store/apps/details?id=appinventor.ai_juanj
 
 
+
+
  ## ✅ Reconocimientos
 
 ### 🥈 Competencia Juridiccional de Informática y Computación (OIA).
