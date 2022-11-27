@@ -148,7 +148,16 @@ Medalla de Oro
 ## ⚡Tutoriales:
 
 
-Realizacion de diferentes tutoriales en la plataforma Youtube explicando paso a paso la codificación de diversos juegos:
+Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" y "Youtube" explicandos paso a paso:
+
+### ⭐️Ditecnomakers:
+
+#### Electronica, Impresion 3D, Programación : 
+
+Link: https://ditecnomakers.com/author/DitecnoDigital/
+
+
+### ⭐️Youtube:
 
  #### 🕹 Quiz, Juego de Preguntas
  Link: https://www.youtube.com/watch?v=EXs_MCt5G64
