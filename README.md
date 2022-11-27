@@ -209,6 +209,7 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 [Cursando] 4to Año.
 [2022-presente].
 
+
+### 😄 Agradecimientos: Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
 ---
-### 😄 Pd: Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
