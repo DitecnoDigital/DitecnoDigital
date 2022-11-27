@@ -143,18 +143,23 @@ Realizacion de diferentes tutoriales en la plataforma Youtube explicando paso a 
 
  #### 🕹 Quiz, Juego de Preguntas
  Link: https://www.youtube.com/watch?v=EXs_MCt5G64
+ 
  ---
  #### 🕹 Juego del Ahorcado
  Link: https://www.youtube.com/watch?v=smFGH95Xe1s
+ 
  ---
  #### 🕹 Cuartro en Linea
  LinK:  https://www.youtube.com/watch?v=T3M5dw_uvjs
+ 
  ---
  #### 🕹 Pong
  Link:https://www.youtube.com/watch?v=HvYVP6MLuR0
+ 
  ---
  #### 🕹 Buscaminas
  Link: https://www.youtube.com/watch?v=_NPT708qXpM&t=1187s
+ 
  ---
  #### 🕹 Arkanoid
  Link: https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s
