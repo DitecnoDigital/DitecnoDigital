@@ -199,7 +199,7 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 ## ⚡Educación
 
 ### 📖Nivel Avanzado:
-                     "Latin"
+                     "Latin", "lengua nativa: redacción, vocabulario"
 ### 📖Nivel Intermedio:
                      "Frances","Ingles"
                     
