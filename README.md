@@ -136,7 +136,7 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 ### 🥈 Competencia Juridiccional de Informática y Computación (OIA).
 
-Año 2021. 2do Puesto. Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/
+[Nivel 1] Año 2021. 2do Puesto. Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
@@ -148,7 +148,7 @@ Año 2021. 2do Puesto. Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-202
 ---
 ### 🥇 Competencia Juridiccional de Informática y Computación (OIA).
 
-Año 2022. 1er Puesto Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/
+[Nivel 1] Año 2022. 1er Puesto Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
