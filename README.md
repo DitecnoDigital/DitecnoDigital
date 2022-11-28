@@ -176,7 +176,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 #### Electronica, Impresión 3D, Programación : 
 
- [![](https://img.shields.io/badge/DitecnoMakers-Quiz-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
+ [![](https://img.shields.io/badge/DitecnoMakers-DitecnoDigital-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
 
 
 ### ⭐️Youtube (expongo algunos):
@@ -186,24 +186,24 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
  
  ---
  #### 🕹 Juego del Ahorcado
- [![](https://img.shields.io/badge/YouTube-Quiz-red)](https://www.youtube.com/watch?v=smFGH95Xe1s)
+ [![](https://img.shields.io/badge/YouTube-Ahorcado-red)](https://www.youtube.com/watch?v=smFGH95Xe1s)
   
  ---
  #### 🕹 Cuartro en Linea
- LinK:  https://www.youtube.com/watch?v=T3M5dw_uvjs
- 
+ [![](https://img.shields.io/badge/YouTube-CuatroEnLinea-red)](https://www.youtube.com/watch?v=T3M5dw_uvjs)
+   
  ---
  #### 🕹 Pong
- Link:https://www.youtube.com/watch?v=HvYVP6MLuR0
- 
+  [![](https://img.shields.io/badge/YouTube-Pong-red)](https://www.youtube.com/watch?v=HvYVP6MLuR0)
+  
  ---
  #### 🕹 Buscaminas
- Link: https://www.youtube.com/watch?v=_NPT708qXpM&t=1187s
+ [![](https://img.shields.io/badge/YouTube-Buscaminas-red)](https://www.youtube.com/watch?v=_NPT708qXpM&t=1187s)
  
  ---
  #### 🕹 Arkanoid
- Link: https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s
-
+ [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
+ 
 
 ## ⚡Educación
 
