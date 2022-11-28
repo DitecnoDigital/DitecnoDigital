@@ -138,7 +138,7 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 [Nivel 1] Año 2021. 2do Puesto. 
 
-[![](https://img.shields.io/badge/OIA-Juricdicional-blue)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/)
+[![](https://img.shields.io/badge/OIA-Juricdicional-green)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
