@@ -87,8 +87,8 @@ const ditecnoDigital = {
         
 ## ⚡Edición de imágenes y video
 
-### Camtasia + KDenLive : 
-        Experiencia de edición de videos  para uso escolar y personal. Uso de chroma key, transiciones, animaciones de texto y objetos, estabilización, motion tracking, entre otras.
+### Camtasia / KDenLive : 
+        Experiencia de edición de videos para uso escolar y personal. Uso de chroma key, transiciones, animaciones de texto y objetos, estabilización, motion tracking, entre otras.
         
 ### Photoshop / GIMP: 
         Edición y manejo de herramientas de recorte y retoque.
