@@ -212,7 +212,7 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 
 ### 😄 Agradecimientos: 
 
-    Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
+  Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
     
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
