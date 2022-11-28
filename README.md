@@ -163,6 +163,7 @@ Medalla de Oro
 
 [Nivel 1]. Año 2022.
 
+[![](https://img.shields.io/badge/OIA-Juridiccional-blue)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
 
 ## ⚡Tutoriales:
 
