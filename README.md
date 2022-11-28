@@ -71,7 +71,7 @@ const ditecnoDigital = {
 ### Cura y Repetier:
         Experiencia en el Laminado de objetos 3D.
         
-### Reparación de Impresoras 3D "Tecnologia FDM" :
+### Reparación de Impresoras 3D "Tecnologa FDM" :
         Experiencia en la reparación y armado de impresoras 3D.
 
       
