@@ -138,7 +138,7 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 [Nivel 1] Año 2021. 2do Puesto. 
 
-[![](https://img.shields.io/badge/OIA-Juricdicional-silver)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/)
+[![](https://img.shields.io/badge/OIA-Juridiccional-silver)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
@@ -154,7 +154,7 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 [Nivel 1] Año 2022. 1er Puesto 
 
-[![](https://img.shields.io/badge/OIA-Juridiccional-blue)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/)
+[![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
@@ -163,7 +163,7 @@ Medalla de Oro
 
 [Nivel 1]. Año 2022.
 
-[![](https://img.shields.io/badge/OIA-Juridiccional-blue)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
+[![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
 
 ## ⚡Tutoriales:
 
