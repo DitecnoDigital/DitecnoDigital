@@ -176,7 +176,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 #### Electronica, Impresión 3D, Programación : 
 
-Link: https://ditecnomakers.com/author/DitecnoDigital/
+ [![](https://img.shields.io/badge/DitecnoMakers-Quiz-blue)](https://ditecnomakers.com/author/DitecnoDigital/)
 
 
 ### ⭐️Youtube (expongo algunos):
@@ -186,8 +186,8 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
  
  ---
  #### 🕹 Juego del Ahorcado
- Link: https://www.youtube.com/watch?v=smFGH95Xe1s
- 
+ [![](https://img.shields.io/badge/YouTube-Quiz-red)](https://www.youtube.com/watch?v=smFGH95Xe1s)
+  
  ---
  #### 🕹 Cuartro en Linea
  LinK:  https://www.youtube.com/watch?v=T3M5dw_uvjs
