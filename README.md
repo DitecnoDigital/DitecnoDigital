@@ -145,19 +145,25 @@ Mediante esta aplicación podrá manejar a través de controles con flechas medi
 
 ### 🥈 Competencia Juridiccional de Informática y Computación (OIA).
 
-[Nivel 1] Año 2021. 2do Puesto. Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/
+[Nivel 1] Año 2021. 2do Puesto. 
+
+[![](https://img.shields.io/badge/OIA-Juriccdicional-blue)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2021/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
 
  Medalla de Oro
 
-[Nivel 1]. Año 2021. Link: https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2021/
+[Nivel 1]. Año 2021. 
+
+[![](https://img.shields.io/badge/OIA-Nacional-blue)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2021/)
 
 ---
 ### 🥇 Competencia Juridiccional de Informática y Computación (OIA).
 
-[Nivel 1] Año 2022. 1er Puesto Link: https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/
+[Nivel 1] Año 2022. 1er Puesto 
+
+[![](https://img.shields.io/badge/OIA-Juridiccional-blue)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2022-categoria-programacion/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
