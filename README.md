@@ -137,7 +137,7 @@ Juego casual de lanzamientos de bolas con gravedad o sin gravedad donde obtienes
 Mediante esta aplicación podrá manejar a través de controles con flechas mediante bluetooth un auto controlado con una placa Arduino o      vincularlo a un ultrasonido y que funcione a modo esquiva obstáculos. Es verdaderamente útil para aprender a usar la placa Arduino, los modulo ultrasonido y los modulo bluetooth.
 
 #### Publicada en: 
-[![](https://img.shields.io/badge/PlayStore-Zijan-blue)](https://play.google.com/store/apps/details?id=appinventor.ai_juanjoseladerach.Auto_Control&hl=es_PE&gl=US)
+[![](https://img.shields.io/badge/PlayStore-ControlRobot-blue)](https://play.google.com/store/apps/details?id=appinventor.ai_juanjoseladerach.Auto_Control&hl=es_PE&gl=US)
 
 
  ## ⚡Reconocimientos
