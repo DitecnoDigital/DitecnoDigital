@@ -182,7 +182,7 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 ### ⭐️Youtube (expongo algunos):
 
  #### 🕹 Quiz, Juego de Preguntas
- Link: https://www.youtube.com/watch?v=EXs_MCt5G64
+ [![](https://img.shields.io/badge/YouTube-Quiz-red)](https://www.youtube.com/watch?v=EXs_MCt5G64)
  
  ---
  #### 🕹 Juego del Ahorcado
