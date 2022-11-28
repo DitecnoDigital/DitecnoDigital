@@ -210,7 +210,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
  #### 🕹 Arkanoid
  [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
  
- ###  Para apoyar a mi canal para que recibas notificaciones sobres nuevos tutoriales...
+ ###  Para apoyar a mi canal y que recibas notificaciones sobres nuevos tutoriales...
  
  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@ditecnodigital6965?sub_confirmation=1)
  
@@ -233,5 +233,9 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
   Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron mis intereses y pasiones.
     
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
