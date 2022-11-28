@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaGitDitecno.png)
+![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
 
 ### Juan José Läderach 👋
 
