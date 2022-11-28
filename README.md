@@ -102,8 +102,7 @@ Plataforma de Makers sobre electrónica, arduino, impresión 3D, raspberry pi y 
 
 #### Publicada en: 
 
-[![](https://img.shields.io/badge/PlayStore-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US/)
-[![](https://img.shields.io/badge/Play Store-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US)
+[![](https://img.shields.io/badge/PlayStore-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US)
 
 ---
 ### 🎮 Return Space: 
