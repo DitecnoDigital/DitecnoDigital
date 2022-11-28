@@ -165,12 +165,12 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 ### ⭐️Ditecnomakers:
 
-#### Electronica, Impresin 3D, Programación : 
+#### Electronica, Impresión 3D, Programación : 
 
 Link: https://ditecnomakers.com/author/DitecnoDigital/
 
 
-### ⭐️Youtube:
+### ⭐️Youtube (expongo algunos):
 
  #### 🕹 Quiz, Juego de Preguntas
  Link: https://www.youtube.com/watch?v=EXs_MCt5G64
@@ -210,6 +210,9 @@ Link: https://ditecnomakers.com/author/DitecnoDigital/
 [2022-presente].
 
 
-### 😄 Agradecimientos: Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
+### 😄 Agradecimientos: 
+
+    Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron.
+    
 ---
 ⭐️ From [@DitecnoDigital](https://github.com/ditecnodigital)
