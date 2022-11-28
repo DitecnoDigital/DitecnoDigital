@@ -109,7 +109,9 @@ Plataforma de Makers sobre electrónica, arduino, impresión 3D, raspberry pi y 
 
 Juego de naves que inicia la aventura por el espacio, pues si es así sumérgete en esta misión donde tendrás diferentes obstáculos que deberás destruir para sumar puntaje y así lograr tu mayor record. ¡¡Prepárate para desafiar tus habilidades!!
 
-#### Publicada en la Play Store: https://play.google.com/store/apps/details?id=com.ditecno.returnspace&hl=es_PE&gl=US
+#### Publicada en:
+[![](https://img.shields.io/badge/PlayStore-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.returnspace&hl=es_PE&gl=US)
+
 
 ---
 ### 🎮 Dity Mistery:
