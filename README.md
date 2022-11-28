@@ -1,4 +1,5 @@
 ![This is me](https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png)
+<img align='center' src= "https://github.com/DitecnoDigital/DitecnoDigital/blob/main/PortadaJuanJose.png" size='auto'/>
 
 ### Juan José Läderach 👋
 
