@@ -214,7 +214,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 ## ⚡Educación
 
 ### 📖Nivel Avanzado:
-                     "Latin", "lengua nativa: redacción, vocabulario"
+                     "Latin", "Lengua Nativa(Castellano): Redacción, Vocabulario"
 ### 📖Nivel Intermedio:
                      "Frances","Ingles"
                     
