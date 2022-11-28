@@ -100,7 +100,10 @@ const ditecnoDigital = {
 
 Plataforma de Makers sobre electrónica, arduino, impresión 3D, raspberry pi y programación que tiene como fin compartir proyectos y       tutoriales ademas de sus experiencias en la plataforma . Las publicaciones tienen una licencia de autor Creative Commons.
 
-#### Publicada en la Play Store: https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US
+#### Publicada en: 
+
+[![](https://img.shields.io/badge/PlayStore-Makers-blue)](https://www.linkedin.com/in/ditecno-digital-aa407a165/)
+[![](https://img.shields.io/badge/Play Store-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.redtecno&hl=es_PE&gl=US)
 
 ---
 ### 🎮 Return Space: 
