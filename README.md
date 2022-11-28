@@ -110,7 +110,7 @@ Plataforma de Makers sobre electrónica, arduino, impresión 3D, raspberry pi y 
 Juego de naves que inicia la aventura por el espacio, pues si es así sumérgete en esta misión donde tendrás diferentes obstáculos que deberás destruir para sumar puntaje y así lograr tu mayor record. ¡¡Prepárate para desafiar tus habilidades!!
 
 #### Publicada en:
-[![](https://img.shields.io/badge/PlayStore-Makers-blue)](https://play.google.com/store/apps/details?id=com.ditecno.returnspace&hl=es_PE&gl=US)
+[![](https://img.shields.io/badge/PlayStore-Return Space-blue)](https://play.google.com/store/apps/details?id=com.ditecno.returnspace&hl=es_PE&gl=US)
 
 
 ---
@@ -118,7 +118,9 @@ Juego de naves que inicia la aventura por el espacio, pues si es así sumérgete
 
 "Dity" proviene del planeta Rojo explorando el espacio, en esa exploración su nave tiene problemas con el panel de control electrónico y aterriza en el planeta Tierra en busca de componentes electrónicos. Para esta misión, utiliza la ayuda de "Mara", una chica muy inquieta e investigadora que está dispuesta a ayudarlo por una pequeña recompensa (monedas de oro y gemas).
 
-#### Publicada en la Play Store:https://play.google.com/store/apps/details?id=com.ditecno.ditymistery&hl=es_PE&gl=US
+#### Publicada en:
+[![](https://img.shields.io/badge/PlayStore-Dity Mistery-blue)](https://play.google.com/store/apps/details?id=com.ditecno.ditymistery&hl=es_PE&gl=US)
+
 
 ---
 ### 🎮 Zijan: 
