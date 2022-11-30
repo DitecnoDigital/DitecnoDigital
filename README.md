@@ -21,7 +21,7 @@ Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria
 
 ## Puedes seguirme en:
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/ditecnodigit?style=social)](https://www.instagram.com/ditecnodigit/)
+[![Instagram Github](https://img.shields.io/github/follow/ditecnodigital?style=social)](https://www.github.com/ditecnodigit/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ditecnodigital?style=social)](https://twitter.com/DitecnoDigital)
  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@ditecnodigital6965?sub_confirmation=1)
 
