@@ -23,7 +23,7 @@ Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ditecnodigital?style=social)](https://twitter.com/DitecnoDigital)
- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/DitecnoDigital?sub_confirmation=1)
+ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@DitecnoDigital?sub_confirmation=1)
 
 ## Skillset
 
