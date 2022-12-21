@@ -205,7 +205,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
  
  ###  Para apoyar a mi canal y que recibas notificaciones sobres nuevos tutoriales...
  
- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/DitecnoDigital?sub_confirmation=1)
+ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@DitecnoDigital?sub_confirmation=1)
  
 
 ## ⚡Educación
