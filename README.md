@@ -7,7 +7,7 @@
 
 ## ⚡Biografia
 
-Hola! Soy Juan José Läderach, un estudiante cursando 4to año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología en cuanto a Electronica,Modelado en 3D para imprimir objetos y Programación en diferentes Lenguajes,aunque lo que más me gusta es la Programación. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
+Hola! Soy Juan José , un estudiante cursando 5to año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología en cuanto a Electronica,Modelado en 3D para imprimir objetos y Programación en diferentes Lenguajes,aunque lo que más me gusta es la Programación. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
