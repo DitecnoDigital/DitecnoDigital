@@ -213,13 +213,13 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 ### 📖Nivel Avanzado:
                      "Latin", "Lengua Nativa(Castellano): Redacción, Vocabulario"
 ### 📖Nivel Intermedio:
-                     "Frances","Ingles"
+                     "Frances","Ingles,Griego"
                     
 
 ### 📖Educación Secundaria - Colegio Nacional Monserrat
 
-[Cursando] 4to Año.
-[2022-presente].
+[Cursando] 5to Año.
+[2023-presente].
 
 
 ### 😄 Agradecimientos: 
