@@ -168,7 +168,7 @@ Medalla de Oro
 
 ### 🥈 Competencia Olimpiada Iberoamericana Informatica (OII).
 
-[Nivel 1] Año 2023. Mension de Honor . 
+[Nivel 1] Año 2023. Mension de Honor. 
 
 [![](https://img.shields.io/badge/OII-Mension-silver)](https://www.oia.unsam.edu.ar/resultados-oii-2023/)
 
