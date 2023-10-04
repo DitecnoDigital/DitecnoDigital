@@ -166,7 +166,7 @@ Medalla de Oro
 
 [![](https://img.shields.io/badge/OIA-Nacional-gold)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
 
-### 🥈 Competencia Olimpiada Iberoamericana Informatica (OII).
+### 🥈 Competencia Olimpíada Iberoamericana Informática (OII).
 
 [Nivel 1] Año 2023. Mension de Honor. 
 
