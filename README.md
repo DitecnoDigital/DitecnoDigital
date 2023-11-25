@@ -178,7 +178,7 @@ Medalla de Oro
 
 [Nivel 2] Año 2023. 1er Puesto 
 
-[![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2023-categoria-programacion/)
+[![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/certamen-jurisdiccional-oia-2023-categoria-programacion/)
 
 ---
 ### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
