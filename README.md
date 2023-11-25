@@ -166,11 +166,28 @@ Medalla de Oro
 
 [![](https://img.shields.io/badge/OIA-Nacional-gold)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
 
+---
 ### 🥈 Competencia Olimpíada Iberoamericana Informática (OII).
 
-[Nivel 1] Año 2023. Mension de Honor. 
+[Nivel 2] Año 2023. Mension de Honor. 
 
 [![](https://img.shields.io/badge/OII-Mension-silver)](https://www.oia.unsam.edu.ar/resultados-oii-2023/)
+
+---
+### 🥇 Competencia Juridiccional de Informática y Computación (OIA).
+
+[Nivel 2] Año 2023. 1er Puesto 
+
+[![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/jurisdiccional-oia-2023-categoria-programacion/)
+
+---
+### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
+
+Medalla de Plata
+
+[Nivel 2]. Año 2023.
+
+[![](https://img.shields.io/badge/OIA-Nacional-silver)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2023/)
 
 ---
 
