@@ -169,14 +169,14 @@ Medalla de Oro
 ---
 ### 🥈 Competencia Olimpíada Iberoamericana Informática (OII).
 
-[Nivel 2] Año 2023. Mension de Honor. 
+[Iberoamericana] Año 2023. Mension de Honor. 
 
 [![](https://img.shields.io/badge/OII-Mension-silver)](https://www.oia.unsam.edu.ar/resultados-oii-2023/)
 
 ---
 ### 🥇 Competencia Juridiccional de Informática y Computación (OIA).
 
-[Nivel 2] Año 2023. 1er Puesto 
+[Nivel 2] Año 2023. 3er Puesto 
 
 [![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/certamen-jurisdiccional-oia-2023-categoria-programacion/)
 
