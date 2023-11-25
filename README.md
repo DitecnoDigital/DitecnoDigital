@@ -187,9 +187,9 @@ Medalla de Plata
 
 [Nivel 2]. Año 2023.
 
-[![](https://img.shields.io/badge/OIA-Nacional-silver)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2023/)
+[![](https://img.shields.io/badge/OIA-Nacional-silver)](https://www.oia.unsam.edu.ar/certamen-nacional-de-programacion-2023/)
 
----
+
 
 ## ⚡Tutoriales:
 
