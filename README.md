@@ -189,14 +189,13 @@ Medalla de Plata
 
 [![](https://img.shields.io/badge/OIA-Nacional-silver)](https://www.oia.unsam.edu.ar/certamen-nacional-de-programacion-2023/)
 
-### 🥇 Clasificación Selección Nacional de Programación representando Argentina en la Olimpíada Informática internacional.
+### 🥇 Clasificación Selección Nacional de Programación representando Argentina en 36ª Olimpíada Internacional de Informática – IOI 2024.
 
 Olimpiada a Realizar en Alejandria, Egipto 
 
 [Nivel 2]. Año 2024.
 
 [![](https://img.shields.io/badge/OIA-Selección-gold)](https://www.oia.unsam.edu.ar/resultados-selectivo-oia-2024/)
-
 
 ## ⚡Tutoriales:
 
