@@ -249,8 +249,8 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 ### 📖Educación Secundaria - Colegio Nacional Monserrat
 
-[Cursando] 5to Año.
-[2023-presente].
+[Cursando] 6to Año.
+[2024-presente].
 
 
 ### 😄 Agradecimientos: 
