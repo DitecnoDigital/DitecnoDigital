@@ -169,7 +169,7 @@ Medalla de Oro
 ---
 ### 🥈 Competencia Olimpíada Iberoamericana Informática (OII).
 
-[Iberoamericana] Año 2023. Mension de Honor. 
+[Iberoamericana] Año 2023. Mencion de Honor. 
 
 [![](https://img.shields.io/badge/OII-Mension-silver)](https://www.oia.unsam.edu.ar/resultados-oii-2023/)
 
@@ -181,7 +181,7 @@ Medalla de Oro
 [![](https://img.shields.io/badge/OIA-Juridiccional-gold)](https://www.oia.unsam.edu.ar/certamen-jurisdiccional-oia-2023-categoria-programacion/)
 
 ---
-### 🥇 Certamen Nacional de Programación, Olimpíada Informática Argentina.
+### 🥈 Certamen Nacional de Programación, Olimpíada Informática Argentina.
 
 Medalla de Plata
 
