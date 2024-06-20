@@ -238,7 +238,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 
 ### 😄 Agradecimientos: 
 
-  Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu ingenieril de mi familia, que con su apoyo a mi corta edad me alentaron mis intereses y pasiones.
+  Si llegaron hasta acá y ven todo mi recorrido por la tecnología, esto se debe al espiritu de investigación, que mi familia con su apoyo a mi corta edad me alentaron mis intereses y pasiones.
     
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
