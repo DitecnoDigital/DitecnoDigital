@@ -7,7 +7,7 @@
 
 ## ⚡Biografia
 
-Hola! Soy Juan José , un estudiante cursando 5to año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología en cuanto a Electronica,Modelado en 3D para imprimir objetos y Programación en diferentes Lenguajes,aunque lo que más me gusta es la Programación. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
+Hola! Soy Juan José , un estudiante cursando 6to año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología en cuanto a Electronica,Modelado en 3D para imprimir objetos y Programación en diferentes Lenguajes,aunque lo que más me gusta es la Programación. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -106,15 +106,6 @@ Juego de naves que inicia la aventura por el espacio, pues si es así sumérgete
 
 
 ---
-### 🎮 Dity Mistery:
-
-"Dity" proviene del planeta Rojo explorando el espacio, en esa exploración su nave tiene problemas con el panel de control electrónico y aterriza en el planeta Tierra en busca de componentes electrónicos. Para esta misión, utiliza la ayuda de "Mara", una chica muy inquieta e investigadora que está dispuesta a ayudarlo por una pequeña recompensa (monedas de oro y gemas).
-
-#### Publicada en:
-[![](https://img.shields.io/badge/PlayStore-DityMistery-blue)](https://play.google.com/store/apps/details?id=com.ditecno.ditymistery&hl=es_PE&gl=US)
-
-
----
 ### 🎮 Zijan: 
 
 Juego casual de lanzamientos de bolas con gravedad o sin gravedad donde obtienes estrellas en cada nivel al recolectar, así como si no te pasas de los lanzamientos y lo haces a tiempo.
@@ -122,14 +113,6 @@ Juego casual de lanzamientos de bolas con gravedad o sin gravedad donde obtienes
 #### Publicada en:
 [![](https://img.shields.io/badge/PlayStore-Zijan-blue)](https://play.google.com/store/apps/details?id=com.DitecnoDigital.BallGame&hl=es_PE&gl=US)
 
-
----
-### 🤖 Comandos de Control Robot:
-
-Mediante esta aplicación podrá manejar a través de controles con flechas mediante bluetooth un auto controlado con una placa Arduino o      vincularlo a un ultrasonido y que funcione a modo esquiva obstáculos. Es verdaderamente útil para aprender a usar la placa Arduino, los modulo ultrasonido y los modulo bluetooth.
-
-#### Publicada en: 
-[![](https://img.shields.io/badge/PlayStore-ControlRobot-blue)](https://play.google.com/store/apps/details?id=appinventor.ai_juanjoseladerach.Auto_Control&hl=es_PE&gl=US)
 
 
  ## ⚡Reconocimientos
