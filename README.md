@@ -150,14 +150,14 @@ Medalla de Oro
 [![](https://img.shields.io/badge/OIA-Nacional-gold)](https://www.oia.unsam.edu.ar/oia-certamen-nacional-de-programacion-2022/)
 
 ---
-### 🥈 Competencia Olimpíada Iberoamericana Informática (OII).
+### Certamen Olimpíada Iberoamericana Informática (OII).
 
 [Iberoamericana] Año 2023. Mencion de Honor. 
 
 [![](https://img.shields.io/badge/OII-Mension-silver)](https://www.oia.unsam.edu.ar/resultados-oii-2023/)
 
 ---
-### 🥇 Competencia Juridiccional de Informática y Computación (OIA).
+### 🥉 Competencia Juridiccional de Informática y Computación (OIA).
 
 [Nivel 2] Año 2023. 3er Puesto 
 
@@ -173,7 +173,7 @@ Medalla de Plata
 [![](https://img.shields.io/badge/OIA-Nacional-silver)](https://www.oia.unsam.edu.ar/certamen-nacional-de-programacion-2023/)
 
 ---
-### 🥇 Clasificación Selección Nacional de Programación representando Argentina en 36ª Olimpíada Internacional de Informática – IOI 2024.
+###  Clasificación Selección Nacional de Programación representando Argentina en 36ª Olimpíada Internacional de Informática – IOI 2024.
 
 Olimpiada a Realizar en Alejandria, Egipto 
 
@@ -182,11 +182,13 @@ Olimpiada a Realizar en Alejandria, Egipto
 [![](https://img.shields.io/badge/OIA-Selección-gold)](https://www.oia.unsam.edu.ar/resultados-selectivo-oia-2024/)
 
 ---
-### 🥇 Clasificación Selección Nacional de Programación representando Argentina en 36ª Olimpíada Iberoamericana Informática – OII 2024.
+### 🥉 Certamem Intnacional de Programación representando Argentina en ª Olimpíada Iberoamericana Informática – OII 2024.
+
+Medalla de Bronce 
 
 Pais Prganizador: Perú
 
-[![](https://img.shields.io/badge/OIA-Selección-bronze)](https://www.iberoinformatica.org/contestant_details/8325)
+[![](https://img.shields.io/badge/OIA-Certamen-silver)](https://www.iberoinformatica.org/contestant_details/8325)
 
 ## ⚡Tutoriales:
 
