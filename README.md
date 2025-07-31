@@ -182,17 +182,17 @@ Olimpiada a Realizar en Alejandria, Egipto
 [![](https://img.shields.io/badge/OIA-Selección-gold)](https://www.oia.unsam.edu.ar/resultados-selectivo-oia-2024/)
 
 ---
-### 🥉 Certamem Intnacional de Programación representando Argentina en ª Olimpíada Iberoamericana Informática – OII 2024.
+### 🥉 Certamem Internacional de Programación representando Argentina en Olimpíada Iberoamericana Informática – OII 2024.
 
 Medalla de Bronce 
 
-Pais Prganizador: Perú
+Pais Organizador: Perú
 
 [![](https://img.shields.io/badge/OIA-Certamen-silver)](https://www.iberoinformatica.org/contestant_details/8325)
 
 ## ⚡Tutoriales:
 
-Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" y "Youtube" explicando paso a paso diferentes temas:
+Realización de diferentes tutoriales en diferentes plataformas ("Ditecnomakers" y "Youtube" principalmente) explicando paso a paso diferentes temas:
 
 ### ⭐️Ditecnomakers:
 
@@ -226,7 +226,7 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
  #### 🕹 Arkanoid
  [![](https://img.shields.io/badge/YouTube-Arkanoid-red)](https://www.youtube.com/watch?v=Q-J5JZHkghg&t=1389s)
  
- ###  Para apoyar a mi canal y que recibas notificaciones sobres nuevos tutoriales...
+ ###  Para apoyar mi canal y recibir notificaciones sobres nuevos tutoriales...
  
  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@DitecnoDigital?sub_confirmation=1)
  
@@ -234,15 +234,17 @@ Realización de diferentes tutoriales en diferentes plataformas "Ditecnomakers" 
 ## ⚡Educación
 
 ### 📖Nivel Avanzado:
-                     "Latin", "Lengua Nativa(Castellano): Redacción, Vocabulario"
+                     "Lengua Nativa(Castellano): Redacción, Vocabulario, etc"
 ### 📖Nivel Intermedio:
-                     "Frances","Ingles,Griego"
+                     "Frances","Ingles"
+### 📖Nivel Basico:
+                     "Griego","Latin"
                     
 
 ### 📖Educación Secundaria - Colegio Nacional Monserrat
 
-[Cursando] 6to Año.
-[2024-presente].
+[Cursando] 7mo Año.
+[2025-presente].
 
 
 ### 😄 Agradecimientos: 
