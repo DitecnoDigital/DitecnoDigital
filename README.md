@@ -181,14 +181,17 @@ Olimpiada a Realizar en Alejandria, Egipto
 Medalla de Bronce 
 
 Pais Organizador: Perú
+
+[![](https://img.shields.io/badge/OIA-Certamen-silver)](https://www.iberoinformatica.org/contestant_details/8608)
+
 ---
 ### 🥈 Certamem Internacional de Programación representando Argentina en Olimpíada Iberoamericana Informática – OII 2025.
 
 Medalla de Plata
 
-Pais Organizador: Perú
+Pais Organizador: Cuba
 
-[![](https://img.shields.io/badge/OIA-Certamen-silver)](https://www.iberoinformatica.org/contestant_details/8325)
+[![](https://img.shields.io/badge/OIA-Certamen-silver)](https://www.iberoinformatica.org/contestant_details/8608)
 
 ## ⚡Tutoriales:
 
