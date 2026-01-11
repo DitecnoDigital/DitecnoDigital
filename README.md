@@ -7,7 +7,7 @@
 
 ## ⚡Biografia
 
-Hola! Soy Juan José , un estudiante cursando 7mo año de la secundaria en el Colegio Nacional Monserrat de la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología sobre todo la programación en diferentes Lenguajes. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
+Hola! Soy Juan José , un estudiante cursando la carrera de Lic en Cs de la Computacion (FAMAF) en la ciudad de Córdoba, Argentina. Me gusta saber e investigar todo lo relacionado con la tecnología sobre todo la programación en diferentes Lenguajes. Dentro de las diferentes áreas de conocimientos que abarca la Tecnología,  puedo decir que estoy actualmente interesado en la resolución de problemas y el desarrollo de algoritmos. De todas formas, siempre me gusta estar abierto a nuevas cosas con el fin de aprender algo más.
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -246,8 +246,7 @@ Realización de diferentes tutoriales en diferentes plataformas ("Ditecnomakers"
 
 ### 📖Educación Secundaria - Colegio Nacional Monserrat
 
-[Cursando] 7mo Año.
-[2025-presente].
+[2019-2025].
 
 
 ### 😄 Agradecimientos: 
